@@ -30,11 +30,9 @@ I'm a dedicated software engineering student with a passion for blending **techn
 🔹 **[Around the U.S.](https://github.com/FHobbs8030/se_project_aroundtheus)**  
 An interactive photo-sharing web app using vanilla JavaScript and API integration. Includes card editing, liking, and user profile updates.  
 🌐 [Live Site](https://fhobbs8030.github.io/se_project_aroundtheus/)
-
 🔹 **[Coffeeshop Static Site](https://github.com/FHobbs8030/se_project_coffeeshop)**  
 A responsive landing page design for a coffeeshop brand. Built with HTML and CSS following block-element-modifier methodology.  
 🌐 [Live Site](https://fhobbs8030.github.io/se_project_coffeeshop/)
-
 🔹 **[CalmCoders2025](https://github.com/tylub001/CalmCoders2025)**  
 A collaborative Code Jam project focused on building a stress-relief or mindfulness tool. Contributions include front-end design, logic handling, and UI improvements.  
 🌐 [Live Site](https://fhobbs8030.github.io/tylub001/CalmCoders2025/)
