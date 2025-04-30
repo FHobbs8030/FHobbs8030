@@ -25,7 +25,7 @@ I'm a dedicated software engineering student with a passion for blending **techn
 
 ### 📁 Featured Projects
 
-🔹 **[Around the U.S.](https://github.com/FHobbs8030/se_project_aroundtheus)**  
+🔹 **[Around the U.S.](https://github.com/FHobbs8030/se_project_aroundtheus/index.html)**  
 An interactive photo-sharing web app using vanilla JavaScript and API integration. Features like, delete, and edit user profiles and cards.
 
 🔹 **[BreatheWell](https://github.com/FHobbs8030/aprilCodeJamMain/tree/breathewell)**  
