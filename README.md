@@ -25,15 +25,15 @@ I'm a dedicated software engineering student with a passion for blending **techn
 
 ### 📁 Featured Projects
 
+### 📁 Featured Projects
+
 🔹 **[Around the U.S.](https://github.com/FHobbs8030/se_project_aroundtheus)**  
-An interactive photo-sharing web app using vanilla JavaScript and API integration. Features like, delete, and edit user profiles and cards.  
+An interactive photo-sharing web app using vanilla JavaScript and API integration. Includes card editing, liking, and user profile updates.  
 🌐 [Live Site](https://fhobbs8030.github.io/se_project_aroundtheus/)
 
-🔹 **[BreatheWell](https://github.com/FHobbs8030/aprilCodeJamMain/tree/breathewell)**  
-A guided mindfulness app with animated breathing visuals and motivational quotes. Built with HTML, CSS, and vanilla JS for a Code Jam event.
-
-🔹 **Survival Backpack App** *(Coming Soon)*  
-A responsive checklist app that tracks total item weight and volume. Great for prepping and outdoor planning.
+🔹 **[Coffeeshop Static Site](https://github.com/FHobbs8030/se_project_coffeeshop)**  
+A responsive landing page design for a coffeeshop brand. Built with HTML and CSS following block-element-modifier methodology.  
+🌐 [Live Site](https://fhobbs8030.github.io/se_project_coffeeshop/)
 
 ---
 
