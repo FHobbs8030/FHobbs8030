@@ -37,7 +37,7 @@ A responsive landing page design for a coffeeshop brand. Built with HTML and CSS
 
 🔹 **[CalmCoders2025](https://github.com/tylub001/CalmCoders2025)**  
 A collaborative Code Jam project focused on building a stress-relief or mindfulness tool. Contributions include front-end design, logic handling, and UI improvements.  
-🌐 [Live Site](https://fhobbs8030.github.io/tylub001/CalmCoders2025/)
+🌐 [Live Site](https://fhobbs8030.github.io/CalmCoders2025/)
 
 ---
 
