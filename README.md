@@ -25,9 +25,9 @@ I'm a dedicated software engineering student with a passion for blending **techn
 
 ### 📁 Featured Projects
 
-🔹 **[Around the U.S.](https://github.com/FHobbs8030/se_project_aroundtheus)** 
-
-An interactive photo-sharing web app using vanilla JavaScript and API integration. Features like, delete, and edit user profiles and cards.
+🔹 **[Around the U.S.](https://github.com/FHobbs8030/se_project_aroundtheus)**  
+An interactive photo-sharing web app using vanilla JavaScript and API integration. Features like, delete, and edit user profiles and cards.  
+🌐 [Live Site](https://fhobbs8030.github.io/se_project_aroundtheus/)
 
 🔹 **[BreatheWell](https://github.com/FHobbs8030/aprilCodeJamMain/tree/breathewell)**  
 A guided mindfulness app with animated breathing visuals and motivational quotes. Built with HTML, CSS, and vanilla JS for a Code Jam event.
