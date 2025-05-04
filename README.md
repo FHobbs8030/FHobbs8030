@@ -25,8 +25,6 @@ I'm a dedicated software engineering student with a passion for blending **techn
 
 ### 📁 Featured Projects
 
-### 📁 Featured Projects
-
 🔹 **[Around the U.S.](https://github.com/FHobbs8030/se_project_aroundtheus)**  
 An interactive photo-sharing web app using vanilla JavaScript and API integration. Includes card editing, liking, and user profile updates.  
 🌐 [Live Site](https://fhobbs8030.github.io/se_project_aroundtheus/)
