@@ -41,16 +41,16 @@ A collaborative Code Jam project focused on building a stress-relief or mindfuln
 
 ### 📜 Certifications & Achievements
 
-- 🎓 TripleTen Software Engineering Student (Sprint 10 of 15)
+- 🎓 TripleTen Software Engineering Student (Sprint 1 of 10)
 - 💼 GitHub collaboration experience using feature branches and pull requests
-- 🛡️ Cybersecurity Toolkit project (in progress)
+- 🛡️ Cybersecurity Toolkit project 
 
 ---
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 💌 Email: youremail@example.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/fred-hobbs-70aa9417a/)
+- 💌 Email: FHobbs8030@Gmail.com
 - 🌐 [Portfolio](https://your-portfolio-link.com)
 
 ---
