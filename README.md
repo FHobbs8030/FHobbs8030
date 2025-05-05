@@ -29,7 +29,7 @@ I'm a dedicated software engineering student with a passion for blending **techn
 An interactive photo-sharing web app using vanilla JavaScript and API integration. Includes card editing, liking, and user profile updates.  
 🌐 [Live Site](https://fhobbs8030.github.io/se_project_aroundtheus/)
 
-🔹 **[Coffeeshop Static Site](https://github.com/FHobbs8030/se_project_coffeeshop)**  
+🔹 **[Coffeeshop Specialty Coffee](https://github.com/FHobbs8030/se_project_coffeeshop)**  
 A responsive landing page design for a coffeeshop brand. Built with HTML and CSS following block-element-modifier methodology.  
 🌐 [Live Site](https://fhobbs8030.github.io/se_project_coffeeshop/)
 
