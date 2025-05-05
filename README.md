@@ -51,7 +51,6 @@ A collaborative Code Jam project focused on building a stress-relief or mindfuln
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/fred-hobbs-70aa9417a/)
 - 💌 Email: FHobbs8030@Gmail.com
-- 🌐 [Portfolio](https://your-portfolio-link.com)
 
 ---
 
