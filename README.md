@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td align="right">
-      <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+      <a href="https://youtube.com/shorts/OVlpcfbrOKo?feature=share" target="_blank">
         <img src="Fred3.png" alt="Watch My Talking Intro" width="125"/>
       </a>
     </td>
