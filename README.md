@@ -2,7 +2,7 @@
   <tr>
     <td align="right">
       <a href="https://youtube.com/shorts/OVlpcfbrOKo?feature=share" target="_blank">
-        <img src="Fred3.png" alt="Watch My Talking Intro" width="125"/>
+        <img src="Fred3.png" alt="Watch My Talking Intro" width="62"/>
       </a>
     </td>
   </tr>
