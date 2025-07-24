@@ -2,7 +2,7 @@
   <tr>
     <td align="right">
       <a href="https://youtu.be/abc123XYZ" target="_blank">
-        <img src="https://img.youtube.com/vi/abc123XYZ/hqdefault.jpg" alt="Watch My Video Intro" width="250"/>
+        <img src="https://img.youtube.com/vi/abc123XYZ/Fred3.png" alt="Watch My Video Intro" width="250"/>
       </a>
     </td>
   </tr>
