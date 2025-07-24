@@ -1,3 +1,13 @@
+<table>
+  <tr>
+    <td align="right">
+      <a href="https://youtu.be/abc123XYZ" target="_blank">
+        <img src="https://img.youtube.com/vi/abc123XYZ/hqdefault.jpg" alt="Watch My Video Intro" width="250"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 # 👋 Hi there, I’m Fred Hobbs
 
 🎯 **Aspiring Software Engineer** | 🌐 Front-End Developer | 💡 Problem Solver | 🎨 Creative Technologist
