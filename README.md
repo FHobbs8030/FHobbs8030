@@ -1,8 +1,8 @@
 <table>
   <tr>
     <td align="right">
-      <a href="https://youtube.com/shorts/OVlpcfbrOKo?feature=share" target="_blank">
-        <img src="Fred3.png" alt="Watch My Talking Intro" width="62"/>
+      <a href="https://youtube.com/shorts/OVlpcfbrOKo?feature=share" target="_blank" rel="noopener">
+        <img src="Fred3.png" alt="Watch My Talking Intro" width="62">
       </a>
     </td>
   </tr>
@@ -14,9 +14,9 @@
 
 ---
 
-### 🔧 About Me
+## 🔧 About Me
 
-I'm a dedicated software engineering student with a passion for blending **technical skills** and **creative design** to build seamless, user-friendly web applications. I'm currently working through the TripleTen Software Engineering program, exploring everything from responsive design to real-world API integration and version control with Git.
+I'm a dedicated software engineering student with a passion for blending **technical skills** and **creative design** to build seamless, user-friendly web applications. I've completed Sprint 14 of the TripleTen Software Engineering program, where I built and deployed a full-stack React + Express application with authentication, protected routes, REST APIs, and MongoDB persistence.
 
 🧠 Always learning.  
 ⚙️ Always building.  
@@ -27,43 +27,42 @@ I'm a dedicated software engineering student with a passion for blending **techn
 ### 💻 Skills & Tools
 
 - **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks/Libraries:** React, Vite, Node.js (basic)
-- **Tools:** Git & GitHub, VS Code, Webpack, npm, Bash
-- **Concepts:** Responsive Design, API integration, Cybersecurity Basics
+- **Frameworks/Libraries:** React, Vite, Node.js, Express
+- **Databases:** MongoDB (Mongoose)
+- **Tools:** Git & GitHub, VS Code, npm, Bash
+- **Concepts:** Responsive Design, REST APIs, Authentication (JWT & cookies), Error Handling, Middleware, MVC Architecture
 
 ---
 
 ### 📁 Featured Projects
 
-🔹 **[Around the U.S.](https://github.com/FHobbs8030/se_project_aroundtheus)**  
-An interactive photo-sharing web app using vanilla JavaScript and API integration. Includes card editing, liking, and user profile updates.  
+🔹 **WTWR (What To Wear)**  
+A full-stack weather-based clothing recommendation app built with React and Express. Features user authentication, protected routes, CRUD operations, likes, and server-side validation.  
+🌐 [Frontend Repo](https://github.com/FHobbs8030/se_project_react)  
+🌐 [Backend Repo](https://github.com/FHobbs8030/se_project_express)
+
+🔹 **Around the U.S.**  
+An interactive photo-sharing web app using vanilla JavaScript and API integration.  
 🌐 [Live Site](https://fhobbs8030.github.io/se_project_aroundtheus/)
 
-🔹 **[Coffeeshop Specialty Coffee](https://github.com/FHobbs8030/se_project_coffeeshop)**  
-A responsive landing page design for a coffeeshop brand. Built with HTML and CSS following block-element-modifier methodology.  
+🔹 **Coffeeshop Specialty Coffee**  
+A responsive landing page built with HTML and CSS using BEM methodology.  
 🌐 [Live Site](https://fhobbs8030.github.io/se_project_coffeeshop/)
-
-🔹 **[CalmCoders2025](https://tylub001.github.io/CalmCoders2025/)**  
-A collaborative Code Jam project focused on building a stress-relief or mindfulness tool. Contributions include front-end design, logic handling, and UI improvements.  
-🌐 [Live Site](https://tylub001.github.io/CalmCoders2025/)
 
 ---
 
 ### 📜 Certifications & Achievements
 
-- 🎓 TripleTen Software Engineering Student (Sprint 1 thru 14)
-- 💼 GitHub collaboration experience using feature branches and pull requests
+- 🎓 TripleTen Software Engineering Program — Sprints 1–14
+- 💼 Full-stack project experience with Git branching and code reviews
 
 ---
 
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/fred-hobbs-70aa9417a/)
-- 💌 Email: FHobbs8030@Gmail.com
+- 💌 Email: [FHobbs8030@gmail.com](mailto:FHobbs8030@gmail.com)
 
 ---
 
-### ✨ Fun Fact
-
-> “Technology should *feel* simple, even when it's not. That's the kind of experience I aim to build.”
-
+> “Technology should feel simple, even when it's not.”
