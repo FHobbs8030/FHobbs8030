@@ -51,7 +51,7 @@ A collaborative Code Jam project focused on building a stress-relief or mindfuln
 
 ### 📜 Certifications & Achievements
 
-- 🎓 TripleTen Software Engineering Student (Sprint 1 thru 10)
+- 🎓 TripleTen Software Engineering Student (Sprint 1 thru 14)
 - 💼 GitHub collaboration experience using feature branches and pull requests
 
 ---
