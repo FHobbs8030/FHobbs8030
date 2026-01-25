@@ -1,68 +1,160 @@
-<table>
-  <tr>
-    <td align="right">
-      <a href="https://youtube.com/shorts/OVlpcfbrOKo?feature=share" target="_blank" rel="noopener">
-        <img src="Fred3.png" alt="Watch My Talking Intro" width="62">
-      </a>
-    </td>
-  </tr>
-</table>
-
 # 👋 Hi there, I’m Fred Hobbs
 
-🎯 **Aspiring Software Engineer** | 🌐 Front-End Developer | 💡 Problem Solver | 🎨 Creative Technologist
+🎯 **Aspiring Software Engineer**  
+🌐 **Full-Stack JavaScript Developer**  
+💡 **Problem Solver**  
+🎨 **Creative Technologist**
 
 ---
 
 ## 🔧 About Me
 
-I'm a dedicated software engineering student with a passion for blending **technical skills** and **creative design** to build seamless, user-friendly web applications. I've completed Sprint 14 of the TripleTen Software Engineering program, where I built and deployed a full-stack React + Express application with authentication, protected routes, REST APIs, and MongoDB persistence.
+I am a software engineering student who has completed **Sprint 14 (Final Sprint)** of the **TripleTen Software Engineering Program**.
 
-🧠 Always learning.  
-⚙️ Always building.  
-🌟 Always improving.
+During Sprint 14, I designed, built, and refined a **full-stack React and Express application** with authentication, protected routes, RESTful APIs, database persistence, and centralized error handling.
 
----
+My focus is on writing clean, maintainable code and delivering intuitive, user-friendly web experiences.
 
-### 💻 Skills & Tools
-
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks/Libraries:** React, Vite, Node.js, Express
-- **Databases:** MongoDB (Mongoose)
-- **Tools:** Git & GitHub, VS Code, npm, Bash
-- **Concepts:** Responsive Design, REST APIs, Authentication (JWT & cookies), Error Handling, Middleware, MVC Architecture
+- 🧠 Always learning
+- ⚙️ Always building
+- 🌟 Always improving
 
 ---
 
-### 📁 Featured Projects
+## 💻 Skills & Tools
 
-🔹 **WTWR (What To Wear)**  
-A full-stack weather-based clothing recommendation app built with React and Express. Features user authentication, protected routes, CRUD operations, likes, and server-side validation.  
-🌐 [Frontend Repo](https://github.com/FHobbs8030/se_project_react)  
-🌐 [Backend Repo](https://github.com/FHobbs8030/se_project_express)
+### Languages
 
-🔹 **Around the U.S.**  
-An interactive photo-sharing web app using vanilla JavaScript and API integration.  
-🌐 [Live Site](https://fhobbs8030.github.io/se_project_aroundtheus/)
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 
-🔹 **Coffeeshop Specialty Coffee**  
-A responsive landing page built with HTML and CSS using BEM methodology.  
-🌐 [Live Site](https://fhobbs8030.github.io/se_project_coffeeshop/)
+### Front-End
+
+- React
+- Vite
+- Responsive Design
+- Component-Based Architecture
+- Client-Side Routing
+
+### Back-End
+
+- Node.js
+- Express.js
+- RESTful APIs
+- Middleware
+- Request Validation
+- Centralized Error Handling
+
+### Databases
+
+- MongoDB
+- Mongoose
+
+### Authentication & Security
+
+- JWT-based authentication
+- Protected routes
+- Password hashing
+- Environment variable management
+
+### Tools & Workflow
+
+- Git and GitHub
+- Feature branches and merges
+- VS Code
+- npm
+- Bash
+- Webpack
+- ESLint
 
 ---
 
-### 📜 Certifications & Achievements
+## 📁 Featured Projects
 
-- 🎓 TripleTen Software Engineering Program — Sprints 1–14
-- 💼 Full-stack project experience with Git branching and code reviews
+### WTWR (What To Wear) — Sprint 14 Final Project
+
+A **full-stack weather-based clothing recommendation application** built with React, Express, and MongoDB.
+
+#### Key Features
+
+- User registration and authentication
+- Protected routes and session handling
+- CRUD operations for clothing items
+- Like and unlike functionality
+- Weather-based filtering
+- REST API with validation middleware
+- Centralized error handling and logging
+
+#### Technology Stack
+
+- Front-End: React, Vite
+- Back-End: Node.js, Express
+- Database: MongoDB
+- Authentication: JWT
+
+##### Repositories
+
+- Front-End:  
+  [https://github.com/FHobbs8030/se_project_react](https://github.com/FHobbs8030/se_project_react)
+
+- Back-End:  
+  [https://github.com/FHobbs8030/se_project_express](https://github.com/FHobbs8030/se_project_express)
 
 ---
 
-### 📫 Let's Connect
+### Around the U.S
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/fred-hobbs-70aa9417a/)
-- 💌 Email: [FHobbs8030@gmail.com](mailto:FHobbs8030@gmail.com)
+An interactive photo-sharing web application built with vanilla JavaScript and external API integration.
+
+- Repository:  
+  [https://github.com/FHobbs8030/se_project_aroundtheus](https://github.com/FHobbs8030/se_project_aroundtheus)
+
+- Live site:  
+  [https://fhobbs8030.github.io/se_project_aroundtheus/](https://fhobbs8030.github.io/se_project_aroundtheus/)
 
 ---
 
-> “Technology should feel simple, even when it's not.”
+### Coffeeshop Specialty Coffee
+
+A responsive landing page built with semantic HTML and CSS using the BEM methodology.
+
+- Repository:  
+  [https://github.com/FHobbs8030/se_project_coffeeshop](https://github.com/FHobbs8030/se_project_coffeeshop)
+
+- Live site:  
+  [https://fhobbs8030.github.io/se_project_coffeeshop/](https://fhobbs8030.github.io/se_project_coffeeshop/)
+
+---
+
+### CalmCoders2025
+
+A collaborative Code Jam project focused on stress relief and mindfulness.
+
+- Live site:  
+  [https://tylub001.github.io/CalmCoders2025/](https://tylub001.github.io/CalmCoders2025/)
+
+---
+
+## 📜 Certifications & Achievements
+
+- 🎓 TripleTen Software Engineering Program — **Sprint 1 through Sprint 14 (Final)**
+- 💼 Experience with GitHub collaboration, feature branches, and pull requests
+- 🧪 Hands-on debugging, validation, and error handling in production-style applications
+
+---
+
+## 📫 Let’s Connect
+
+- LinkedIn:  
+  [https://www.linkedin.com/in/fred-hobbs-70aa9417a/](https://www.linkedin.com/in/fred-hobbs-70aa9417a/)
+
+- Email:  
+  <FHobbs8030@gmail.com>
+
+---
+
+## ✨ Fun Fact
+
+> Technology should feel simple, even when it is complex.  
+> That is the experience I strive to build.
