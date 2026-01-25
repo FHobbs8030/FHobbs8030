@@ -4,7 +4,7 @@
 
 <img src="Fred3.png" alt="Fred Hobbs Profile Image" width="220" />
 
-
+<br />
 
 🎯 **Aspiring Software Engineer**  
 🌐 **Full-Stack JavaScript Developer**  
