@@ -1,5 +1,9 @@
 # 👋 Hi there, I’m Fred Hobbs
 
+<p align="center">
+  <img src="Fred3.png" alt="Fred Hobbs Profile Image" width="200" />
+</p>
+
 🎯 **Aspiring Software Engineer**  
 🌐 **Full-Stack JavaScript Developer**  
 💡 **Problem Solver**  
