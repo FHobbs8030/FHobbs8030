@@ -1,13 +1,15 @@
+<div align="center">
+
 # 👋 Hi there, I’m Fred Hobbs
 
-<p align="center">
-  <img src="Fred3.png" alt="Fred Hobbs Profile Image" width="200" />
-</p>
+<img src="Fred3.png" alt="Fred Hobbs Profile Image" width="220" />
 
 🎯 **Aspiring Software Engineer**  
 🌐 **Full-Stack JavaScript Developer**  
 💡 **Problem Solver**  
 🎨 **Creative Technologist**
+
+</div>
 
 ---
 
