@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I’m Fred Hobbs
 
-<img src="Fred3.png" alt="Fred Hobbs Profile Image" width="220" />
+<img src="Fred3.png" alt="Fred Hobbs Profile Image" width="210" />
 
 <br />
 
