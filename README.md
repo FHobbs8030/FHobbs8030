@@ -7,7 +7,7 @@
 <br />
 <br />
 
-🎯 **Aspiring Software Engineer**  
+🎯 **Software Engineer**  
 🌐 **Full-Stack JavaScript Developer**  
 💡 **Problem Solver**  
 🎨 **Creative Technologist**
