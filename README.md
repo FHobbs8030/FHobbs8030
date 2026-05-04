@@ -7,7 +7,7 @@
 <br />
 <br />
 
-🎯 **Software Engineer**  
+🎯 **Full-Stack Software Engineer**  
 🌐 **Full-Stack JavaScript Developer**  
 💡 **Problem Solver**  
 🎨 **Creative Technologist**
