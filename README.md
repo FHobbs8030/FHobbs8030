@@ -2,12 +2,9 @@
 
 # 👋 Hi there, I’m Fred Hobbs
 
-<img
-  src="./Fred8.png"
-  alt="Fred Hobbs"
-  width="210"
-/>
 
+<br />
+<br />
 <br />
 
 ### Full-Stack Software Engineer  
