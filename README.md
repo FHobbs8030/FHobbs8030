@@ -2,15 +2,32 @@
 
 # 👋 Hi there, I’m Fred Hobbs
 
- <img src="Fred8.png" alt="Fred Hobbs Profile Image" width="210" /> 
+<img
+  src="./Fred8.png"
+  alt="Fred Hobbs"
+  width="210"
+/>
 
 <br />
+
+### Full-Stack Software Engineer  
+### Full-Stack JavaScript Developer
+
 <br />
 
-🎯 **Full-Stack Software Engineer**  
-🌐 **Full-Stack JavaScript Developer**  
-💡 **Problem Solver**  
-🎨 **Creative Technologist**
+![Full Stack](https://img.shields.io/badge/FULL--STACK-DEVELOPER-334155?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![React](https://img.shields.io/badge/REACT-DEVELOPER-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/NODE.JS-BACKEND-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
+
+![Problem Solver](https://img.shields.io/badge/PROBLEM-SOLVER-2563EB?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/RESPONSIVE-DESIGN-EA580C?style=for-the-badge)
+![Clean Code](https://img.shields.io/badge/CLEAN-CODE-16A34A?style=for-the-badge)
+
+<br />
+
+I build responsive, scalable, and user-friendly web applications using
+modern frontend and backend technologies.
 
 </div>
 
@@ -18,148 +35,256 @@
 
 ## 🔧 About Me
 
-I am a software engineering student who has completed **Sprint 14 (Final Sprint)** of the **TripleTen Software Engineering Program**.
+I am a full-stack software engineer who completed the **TripleTen Software
+Engineering Program**, including **Sprint 14 — the Final Sprint**.
 
-During Sprint 14, I designed, built, and refined a **full-stack React and Express application** with authentication, protected routes, RESTful APIs, database persistence, and centralized error handling.
+During the program, I designed, built, tested, and deployed full-stack
+applications using **React, Node.js, Express, and MongoDB**.
 
-My focus is on writing clean, maintainable code and delivering intuitive, user-friendly web experiences.
+My experience includes:
+
+- Secure user registration and authentication
+- Protected routes and session handling
+- RESTful API development
+- Database persistence with MongoDB
+- Request validation and centralized error handling
+- Responsive and accessible user interfaces
+- GitHub feature branches, pull requests, and collaborative workflows
+- Deployment of frontend and backend applications
+
+My focus is on writing clean, maintainable code and creating intuitive
+experiences that solve real problems.
 
 - 🧠 Always learning
 - ⚙️ Always building
 - 🌟 Always improving
+- 🚀 Always delivering
 
 ---
 
 ## 💻 Skills & Tools
 
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
 ### Languages
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 
 ### Front-End
 
-- React
-- Vite
-- Responsive Design
-- Component-Based Architecture
-- Client-Side Routing
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-EA580C?style=flat-square)
+![Component Architecture](https://img.shields.io/badge/Component-Architecture-2563EB?style=flat-square)
+![Client-Side Routing](https://img.shields.io/badge/Client--Side-Routing-0F766E?style=flat-square)
+
+  </td>
+  <td valign="top" width="33%">
 
 ### Back-End
 
-- Node.js
-- Express.js
-- RESTful APIs
-- Middleware
-- Request Validation
-- Centralized Error Handling
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=ffffff)
+![REST API](https://img.shields.io/badge/REST-API-2563EB?style=flat-square)
+![Middleware](https://img.shields.io/badge/Express-Middleware-334155?style=flat-square)
+![Validation](https://img.shields.io/badge/Request-Validation-16A34A?style=flat-square)
 
 ### Databases
 
-- MongoDB
-- Mongoose
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=ffffff)
+
+  </td>
+  <td valign="top" width="33%">
 
 ### Authentication & Security
 
-- JWT-based authentication
-- Protected routes
-- Password hashing
-- Environment variable management
+![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=ffffff)
+![Protected Routes](https://img.shields.io/badge/Protected-Routes-7C3AED?style=flat-square)
+![Password Hashing](https://img.shields.io/badge/Password-Hashing-B91C1C?style=flat-square)
+![Environment Variables](https://img.shields.io/badge/Environment-Variables-475569?style=flat-square)
 
 ### Tools & Workflow
 
-- Git and GitHub
-- Feature branches and merges
-- VS Code
-- npm
-- Bash
-- Webpack
-- ESLint
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=ffffff)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=ffffff)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000000)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=ffffff)
+
+  </td>
+  </tr>
+</table>
 
 ---
 
 ## 📁 Featured Projects
 
-### WTWR (What To Wear) — Sprint 14 Final Project
+### 🌦️ WTWR — What To Wear
 
-A **full-stack weather-based clothing recommendation application** built with React, Express, and MongoDB.
+A full-stack weather-based clothing recommendation application that helps
+users decide what to wear based on current weather conditions.
 
-#### Key Features
+**Key features**
 
 - User registration and authentication
-- Protected routes and session handling
+- Protected application routes
+- Persistent user sessions
 - CRUD operations for clothing items
 - Like and unlike functionality
-- Weather-based filtering
+- Weather-based clothing filtering
 - REST API with validation middleware
 - Centralized error handling and logging
+- Responsive user interface
 
-#### Technology Stack
+**Technology stack**
 
-- Front-End: React, Vite
-- Back-End: Node.js, Express
-- Database: MongoDB
-- Authentication: JWT
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
+![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=ffffff)
 
-##### Repositories
+**Repositories**
 
-- Front-End:  
-  [https://github.com/FHobbs8030/se_project_react](https://github.com/FHobbs8030/se_project_react)
-
-- Back-End:  
-  [https://github.com/FHobbs8030/se_project_express](https://github.com/FHobbs8030/se_project_express)
-
----
-
-### Around the U.S
-
-An interactive photo-sharing web application built with vanilla JavaScript and external API integration.
-
-- Repository:  
-  [https://github.com/FHobbs8030/se_project_aroundtheus](https://github.com/FHobbs8030/se_project_aroundtheus)
-
-- Live site:  
-  [https://fhobbs8030.github.io/se_project_aroundtheus/](https://fhobbs8030.github.io/se_project_aroundtheus/)
+- [Frontend repository](https://github.com/FHobbs8030/se_project_react)
+- [Backend repository](https://github.com/FHobbs8030/se_project_express)
 
 ---
 
-### Coffeeshop Specialty Coffee
+### 🏔️ Around the U.S.
 
-A responsive landing page built with semantic HTML and CSS using the BEM methodology.
+An interactive photo-sharing application where users can explore locations,
+manage profile information, add photographs, and interact with shared content.
 
-- Repository:  
-  [https://github.com/FHobbs8030/se_project_coffeeshop](https://github.com/FHobbs8030/se_project_coffeeshop)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
+![API](https://img.shields.io/badge/External-API-2563EB?style=flat-square)
 
-- Live site:  
-  [https://fhobbs8030.github.io/se_project_coffeeshop/](https://fhobbs8030.github.io/se_project_coffeeshop/)
+- [Repository](https://github.com/FHobbs8030/se_project_aroundtheus)
+- [Live site](https://fhobbs8030.github.io/se_project_aroundtheus/)
 
 ---
 
-### CalmCoders2025
+### ☕ Coffeeshop Specialty Coffee
 
-A collaborative Code Jam project focused on stress relief and mindfulness.
+A responsive specialty-coffee landing page built with semantic HTML and CSS
+using the BEM methodology.
 
-- Live site:  
-  [https://tylub001.github.io/CalmCoders2025/](https://tylub001.github.io/CalmCoders2025/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
+![BEM](https://img.shields.io/badge/CSS-BEM-0F766E?style=flat-square)
+![Responsive](https://img.shields.io/badge/Responsive-Design-EA580C?style=flat-square)
+
+- [Repository](https://github.com/FHobbs8030/se_project_coffeeshop)
+- [Live site](https://fhobbs8030.github.io/se_project_coffeeshop/)
+
+---
+
+### 🛡️ SentinelScope
+
+A security-oriented operational dashboard designed for scans, findings,
+missions, alerts, telemetry, and cross-linked navigation.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
+
+- [Frontend repository](https://github.com/FHobbs8030/sentinelscope-react)
+
+---
+
+### ⚒️ SkillForge
+
+A full-stack developer learning and collaboration platform that helps users
+track coding progress, learning activity, projects, and organization workspaces.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
+
+- [Repository](https://github.com/FHobbs8030/skillforge)
+- [Live application](https://adorable-granita-db1df3.netlify.app/)
+
+---
+
+### 🧘 CalmCoders2025
+
+A collaborative Code Jam project focused on stress relief, mindfulness, and
+healthy technology habits.
+
+![Collaboration](https://img.shields.io/badge/Team-Collaboration-2563EB?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![Wellness](https://img.shields.io/badge/Focus-Wellness-16A34A?style=flat-square)
+
+- [Live site](https://tylub001.github.io/CalmCoders2025/)
 
 ---
 
 ## 📜 Certifications & Achievements
 
-- 🎓 TripleTen Software Engineering Program — **Sprint 1 through Sprint 14 (Final)**
-- 💼 Experience with GitHub collaboration, feature branches, and pull requests
-- 🧪 Hands-on debugging, validation, and error handling in production-style applications
+- 🎓 Completed the **TripleTen Software Engineering Program**
+- 🚀 Completed **Sprint 1 through Sprint 14 — Final Sprint**
+- 💼 Built and deployed production-style full-stack applications
+- 🌿 Experienced with feature branches, pull requests, and merge workflows
+- 🧪 Hands-on experience with debugging, validation, and error handling
+- 🔐 Implemented authentication, protected routes, and password security
+- 📱 Built responsive interfaces for desktop, tablet, and mobile devices
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=FHobbs8030&show_icons=true&theme=github_dark&hide_border=true"
+  alt="Fred Hobbs GitHub statistics"
+  height="165"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FHobbs8030&layout=compact&theme=github_dark&hide_border=true"
+  alt="Fred Hobbs most-used languages"
+  height="165"
+/>
+
+</div>
+
+<div align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=FHobbs8030&theme=github-dark-blue&hide_border=true"
+  alt="Fred Hobbs GitHub contribution streak"
+/>
+
+</div>
 
 ---
 
 ## 📫 Let’s Connect
 
-- LinkedIn:  
-  [https://www.linkedin.com/in/fred-hobbs-70aa9417a/](https://www.linkedin.com/in/fred-hobbs-70aa9417a/)
+<div align="center">
 
-- Email:  
-  <FHobbs8030@gmail.com>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fred_Hobbs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/fred-hobbs-70aa9417a/)
+
+[![Email](https://img.shields.io/badge/Email-FHobbs8030%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:FHobbs8030@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-FHobbs8030-181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/FHobbs8030)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-EA580C?style=for-the-badge&logo=firefoxbrowser&logoColor=ffffff)](https://fhobbs8030.github.io/responsive-portfolio/)
+
+</div>
 
 ---
 
@@ -167,3 +292,13 @@ A collaborative Code Jam project focused on stress relief and mindfulness.
 
 > Technology should feel simple, even when it is complex.  
 > That is the experience I strive to build.
+
+---
+
+<div align="center">
+
+### Thank you for visiting my profile
+
+![Profile Views](https://komarev.com/ghpvc/?username=FHobbs8030&style=for-the-badge&color=ea580c)
+
+</div>
