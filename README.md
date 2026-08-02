@@ -234,7 +234,7 @@ healthy technology habits.
 ## 📜 Certifications & Achievements
 
 - 🎓 Completed the **TripleTen Software Engineering Program**
-- 🚀 Completed **Sprint 1 through Sprint 14 — Final Sprint**
+- 🚀 Completed **Sprint 1 through Sprint 16 — Final Sprint**
 - 💼 Built and deployed production-style full-stack applications
 - 🌿 Experienced with feature branches, pull requests, and merge workflows
 - 🧪 Hands-on experience with debugging, validation, and error handling
