@@ -241,30 +241,25 @@ healthy technology habits.
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-stats-mu-seven-54.vercel.app/api?username=FHobbs8030&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Fred Hobbs GitHub statistics"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats-mu-seven-54.vercel.app/api/top-langs/?username=FHobbs8030&layout=compact&theme=github_dark&hide_border=true"
+    alt="Fred Hobbs most-used languages"
+    height="165"
+  />
+</p>
 
-<img
-  src="https://github-readme-stats-mu-seven-54.vercel.app/api?username=FHobbs8030&show_icons=true&theme=github_dark&hide_border=true"
-  alt="Fred Hobbs GitHub statistics"
-  height="165"
-/>
-
-<img
-  src="https://github-readme-stats-mu-seven-54.vercel.app/api/top-langs/?username=FHobbs8030&layout=compact&theme=github_dark&hide_border=true"
-  alt="Fred Hobbs most-used languages"
-  height="165"
-/>
-
-</div>
-
-<div align="center">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=FHobbs8030&theme=github-dark-blue&hide_border=true"
-  alt="Fred Hobbs GitHub contribution streak"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=FHobbs8030&theme=github-dark-blue&hide_border=true"
+    alt="Fred Hobbs GitHub contribution streak"
+  />
+</p>
 
 ---
 
