@@ -2,12 +2,11 @@
 
 # 👋 Hi there, I’m Fred Hobbs
 
-
 <br />
 <br />
 <br />
 
-### Full-Stack Software Engineer  
+## Full-Stack Software Engineer  
 ### Full-Stack JavaScript Developer
 
 <br />
@@ -128,7 +127,7 @@ experiences that solve real problems.
 A full-stack weather-based clothing recommendation application that helps
 users decide what to wear based on current weather conditions.
 
-**Key features**
+#### Key features
 
 - User registration and authentication
 - Protected application routes
@@ -140,7 +139,7 @@ users decide what to wear based on current weather conditions.
 - Centralized error handling and logging
 - Responsive user interface
 
-**Technology stack**
+#### Technology stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff)
@@ -149,14 +148,14 @@ users decide what to wear based on current weather conditions.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=ffffff)
 
-**Repositories**
+#### Repositories
 
 - [Frontend repository](https://github.com/FHobbs8030/se_project_react)
 - [Backend repository](https://github.com/FHobbs8030/se_project_express)
 
 ---
 
-### 🏔️ Around the U.S.
+### 🏔️ Around the U.S
 
 An interactive photo-sharing application where users can explore locations,
 manage profile information, add photographs, and interact with shared content.
