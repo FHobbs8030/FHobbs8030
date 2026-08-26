@@ -6,7 +6,7 @@
 <br />
 <br />
 
-## Full-Stack Software Engineer  
+## Full-Stack Software Engineer
 ### Full-Stack JavaScript Developer
 
 <br />
